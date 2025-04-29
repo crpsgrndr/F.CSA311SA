@@ -1,0 +1,11 @@
+com\flashcardapp\CardOrganizer.class
+com\flashcardapp\RecentMistakesFirstSorter.class
+com\flashcardapp\Card.class
+com\flashcardapp\StudySession.class
+com\flashcardapp\Achievements.class
+com\flashcardapp\CardManager.class
+com\flashcardapp\Flashcard.class
+com\flashcardapp\RecentMistakesFirstSorter$1.class
+com\flashcardapp\WorstFirstSorter.class
+com\flashcardapp\WorstFirstSorter$1.class
+com\flashcardapp\MenuManager.class
